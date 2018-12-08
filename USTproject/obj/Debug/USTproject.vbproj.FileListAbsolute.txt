@@ -1,0 +1,12 @@
+C:\GAUTHAM\vb\USTproject\USTproject\bin\Debug\USTproject.exe.config
+C:\GAUTHAM\vb\USTproject\USTproject\bin\Debug\USTproject.exe
+C:\GAUTHAM\vb\USTproject\USTproject\bin\Debug\USTproject.pdb
+C:\GAUTHAM\vb\USTproject\USTproject\bin\Debug\USTproject.xml
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.vbprojAssemblyReference.cache
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.Form1.resources
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.Resources.resources
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.vbproj.GenerateResource.cache
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.vbproj.CoreCompileInputs.cache
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.exe
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.xml
+C:\GAUTHAM\vb\USTproject\USTproject\obj\Debug\USTproject.pdb
